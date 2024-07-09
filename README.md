@@ -1,4 +1,6 @@
-# Hi there, I'm Matteo Mariottini 👋
+<p>
+  <h1 align="center"><b>Hi there, I'm Matteo 👋</h1>
+</p>
 
 ## 💭 About me
 
