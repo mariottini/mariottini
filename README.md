@@ -4,30 +4,17 @@
 
 ## 💭 About me
 
-Sono uno studente da sempre attratto dal mondo dell’informatica e propenso all’apprendimento di nuove tecnologie.  
-In generale mi piace applicarmi nell’ambito della creazione di siti web o applicazioni destinati all’utente, studiando anche il design della UI per garantire una migliore usabilità.  
-Mi piace mettermi in gioco, per questo non appena ne ho avuto possibilità ho partecipato ad un’attività all estero, che mi ha permesso di affinare la mia capacità di adattamento e le mie abilità con una lingua straniera. Vorrei entrare in contatto con realtà stimolanti, che mi permettano di potenziare la mia creatività e le mie conoscenze, rendendole utili all’utilizzo pratico.
+- 21 y/o 🎂
+- Living in Brescia, Italy 📍
+- Currently studying at ITS Academy LAST (Verona) 🤓
+- Trying to be a web developer 💻
 
 ## 📫 Contact
 
-Contattami qui:
+Let's get in touch!
 
-- 📞 Phone: +39 342 070 2651
 - 📩 Email: matteomariottini9@gmail.com
 - 🟦 [LinkedIn](https://linkedin.com/in/matteo-mariottini)
-
-## ⚡ Skills
-
-Alcuni linguaggi di programmazione con cui ho lavorato durante i miei studi:
-- Python
-- Java
-- C++
-- HTML/CSS
-- JavaScript
-- SQL
-- PHP
-- Haskell
-
 
 <!--
 **mariottini/mariottini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
