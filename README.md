@@ -1,15 +1,13 @@
-<p>
-  <h1 align="center"><b>Hi there, I'm Matteo 👋</h1>
-</p>
+# Hi there, I'm Matteo 👋
 
-## 💭 About me
+### 💭 About me
 
 - 21 y/o 🎂
 - Living in Brescia, Italy 📍
 - Currently studying at ITS Academy LAST (Verona) 🤓
 - Trying to be a web developer 💻
 
-## 📫 Contact
+### 📫 Contact
 
 Let's get in touch!
 
