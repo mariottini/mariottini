@@ -11,7 +11,7 @@
 
 Let's get in touch!
 
-- 📩 Email: matteomariottini9@gmail.com
+- 📩 matteomariottini9@gmail.com
 - 🟦 [LinkedIn](https://linkedin.com/in/matteo-mariottini)
 
 <!--
