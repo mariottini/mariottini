@@ -4,8 +4,7 @@
 
 - 21 y/o 🎂
 - Living in Brescia, Italy 📍
-- Currently studying at ITS Academy LAST (Verona) 🤓
-- Trying to be a web developer 💻
+- Things maker 🤓
 
 ### 📫 Contact
 
