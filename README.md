@@ -2,7 +2,7 @@
 
 ### 💭 About me
 
-- 21 y/o 🎂
+- 22 y/o 🎂
 - Living in Brescia, Italy 📍
 - Things maker 🤓
 
